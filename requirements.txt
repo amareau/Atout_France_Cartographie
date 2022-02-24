@@ -1,0 +1,9 @@
+shapely >=1, <1.8.0
+pandas <= 2, >1
+requests >= 2, < 3
+rtree >=0.9
+geopandas <= 0.9, >= 0.8.2
+pyarrow >= 3.0.0, <=5
+openpyxl >= 3.0.7, < 4
+pytz >= 2021.1, < 2022
+keplergl >= 0.2.1, <1
