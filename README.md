@@ -12,3 +12,6 @@
 	  > pip install -r requirements.txt
 	- Ouverture d'une console jupyter;
 	  > jupyter notebook
+
+# Auteur :
+* MAREAU Alexis
