@@ -8,6 +8,8 @@
 	  > conda activate geopandas
 	- Installation forcée du package fiona (1.8.21);
 	  > conda install -c conda-forge fiona
+	- Installation de jupyter notebook;
+	  > pip install notebook
 	- Installation des packages présents dans le fichier requirements.txt;
 	  > pip install -r requirements.txt
 	- Ouverture d'une console jupyter;
