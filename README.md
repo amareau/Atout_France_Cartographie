@@ -6,10 +6,10 @@
 	  > conda create -n geopandas python=3.7   
 	- Activer l'environnement geopandas que l'on vient de créer;
 	  > conda activate geopandas
-	- Installation forcée du package fiona (1.8.21);
-	  > conda install -c conda-forge fiona
 	- Installation de jupyter notebook;
 	  > pip install notebook
+	- Installation du package fiona (1.8.21) avec conda-forge;
+	  > conda install -c conda-forge fiona==1.8.21
 	- Installation des packages présents dans le fichier requirements.txt;
 	  > pip install -r requirements.txt
 	- Ouverture d'une console jupyter;
