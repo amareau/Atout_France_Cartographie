@@ -9,6 +9,7 @@
 	- Télécharger et placer dans le chemin courant les fichiers *GDAL-3.4.2-cp310-cp310-win_amd64.whl* et *Fiona-1.8.21-cp310-cp310-win_amd64.whl* ;
 	- Lancer les commandes ci-dessous (explications : voir sources 1, 2 et 3) ;
 	  > pip install GDAL-3.4.2-cp310-cp310-win_amd64.whl
+	  
 	  > pip install Fiona-1.8.21-cp310-cp310-win_amd64.whl
 	- Installation de geopandas ;
 	  > pip install geopandas
